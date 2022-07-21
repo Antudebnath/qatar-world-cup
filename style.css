@@ -428,4 +428,8 @@ footer hr {
         flex-wrap: nowrap;
     }
 
+    .view-all {
+        display: none;
+    }
+
 }
